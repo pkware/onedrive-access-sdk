@@ -1,0 +1,31 @@
+####
+# Gradle folder
+#
+.gradle
+
+####
+# IntelliJ folder
+#
+.idea
+
+####
+# Build folder
+#
+build
+*unused.txt
+
+####
+# IML files
+#
+*.iml
+
+####
+# SDK config
+#
+local.properties
+
+####
+# Mac Files
+#
+.DS_Store
+libMetaClient.so
